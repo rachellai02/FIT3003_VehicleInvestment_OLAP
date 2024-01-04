@@ -1,0 +1,158 @@
+"Booking Month","Passenger Age Group","Car body type","NUMBER OF BOOKINGS"
+"January  ","Middle-aged adults","Bus",134
+"January  ","Middle-aged adults","Mini Bus",154
+"January  ","Middle-aged adults","People Mover",142
+"January  ","Middle-aged adults","All Car Body Types",430
+"January  ","Old-aged adults","Bus",22
+"January  ","Old-aged adults","Mini Bus",9
+"January  ","Old-aged adults","People Mover",28
+"January  ","Old-aged adults","All Car Body Types",59
+"January  ","Young adults","Bus",135
+"January  ","Young adults","Mini Bus",130
+"January  ","Young adults","People Mover",130
+"January  ","Young adults","All Car Body Types",395
+"January  ","All Age Groups","All Car Body Types",884
+"February ","Middle-aged adults","Bus",159
+"February ","Middle-aged adults","Mini Bus",104
+"February ","Middle-aged adults","People Mover",134
+"February ","Middle-aged adults","All Car Body Types",397
+"February ","Old-aged adults","Bus",21
+"February ","Old-aged adults","Mini Bus",17
+"February ","Old-aged adults","People Mover",22
+"February ","Old-aged adults","All Car Body Types",60
+"February ","Young adults","Bus",99
+"February ","Young adults","Mini Bus",90
+"February ","Young adults","People Mover",105
+"February ","Young adults","All Car Body Types",294
+"February ","All Age Groups","All Car Body Types",751
+"March    ","Middle-aged adults","Bus",131
+"March    ","Middle-aged adults","Mini Bus",151
+"March    ","Middle-aged adults","People Mover",152
+"March    ","Middle-aged adults","All Car Body Types",434
+"March    ","Old-aged adults","Bus",20
+"March    ","Old-aged adults","Mini Bus",24
+"March    ","Old-aged adults","People Mover",24
+"March    ","Old-aged adults","All Car Body Types",68
+"March    ","Young adults","Bus",109
+"March    ","Young adults","Mini Bus",114
+"March    ","Young adults","People Mover",126
+"March    ","Young adults","All Car Body Types",349
+"March    ","All Age Groups","All Car Body Types",851
+"April    ","Middle-aged adults","Bus",127
+"April    ","Middle-aged adults","Mini Bus",148
+"April    ","Middle-aged adults","People Mover",135
+"April    ","Middle-aged adults","All Car Body Types",410
+"April    ","Old-aged adults","Bus",22
+"April    ","Old-aged adults","Mini Bus",18
+"April    ","Old-aged adults","People Mover",25
+"April    ","Old-aged adults","All Car Body Types",65
+"April    ","Young adults","Bus",101
+"April    ","Young adults","Mini Bus",98
+"April    ","Young adults","People Mover",113
+"April    ","Young adults","All Car Body Types",312
+"April    ","All Age Groups","All Car Body Types",787
+"May      ","Middle-aged adults","Bus",152
+"May      ","Middle-aged adults","Mini Bus",132
+"May      ","Middle-aged adults","People Mover",141
+"May      ","Middle-aged adults","All Car Body Types",425
+"May      ","Old-aged adults","Bus",23
+"May      ","Old-aged adults","Mini Bus",19
+"May      ","Old-aged adults","People Mover",27
+"May      ","Old-aged adults","All Car Body Types",69
+"May      ","Young adults","Bus",106
+"May      ","Young adults","Mini Bus",113
+"May      ","Young adults","People Mover",120
+"May      ","Young adults","All Car Body Types",339
+"May      ","All Age Groups","All Car Body Types",833
+"June     ","Middle-aged adults","Bus",118
+"June     ","Middle-aged adults","Mini Bus",134
+"June     ","Middle-aged adults","People Mover",142
+"June     ","Middle-aged adults","All Car Body Types",394
+"June     ","Old-aged adults","Bus",28
+"June     ","Old-aged adults","Mini Bus",27
+"June     ","Old-aged adults","People Mover",22
+"June     ","Old-aged adults","All Car Body Types",77
+"June     ","Young adults","Bus",109
+"June     ","Young adults","Mini Bus",122
+"June     ","Young adults","People Mover",111
+"June     ","Young adults","All Car Body Types",342
+"June     ","All Age Groups","All Car Body Types",813
+"July     ","Middle-aged adults","Bus",136
+"July     ","Middle-aged adults","Mini Bus",128
+"July     ","Middle-aged adults","People Mover",159
+"July     ","Middle-aged adults","All Car Body Types",423
+"July     ","Old-aged adults","Bus",27
+"July     ","Old-aged adults","Mini Bus",24
+"July     ","Old-aged adults","People Mover",27
+"July     ","Old-aged adults","All Car Body Types",78
+"July     ","Young adults","Bus",109
+"July     ","Young adults","Mini Bus",97
+"July     ","Young adults","People Mover",124
+"July     ","Young adults","All Car Body Types",330
+"July     ","All Age Groups","All Car Body Types",831
+"August   ","Middle-aged adults","Bus",132
+"August   ","Middle-aged adults","Mini Bus",154
+"August   ","Middle-aged adults","People Mover",156
+"August   ","Middle-aged adults","All Car Body Types",442
+"August   ","Old-aged adults","Bus",27
+"August   ","Old-aged adults","Mini Bus",26
+"August   ","Old-aged adults","People Mover",21
+"August   ","Old-aged adults","All Car Body Types",74
+"August   ","Young adults","Bus",100
+"August   ","Young adults","Mini Bus",98
+"August   ","Young adults","People Mover",110
+"August   ","Young adults","All Car Body Types",308
+"August   ","All Age Groups","All Car Body Types",824
+"September","Middle-aged adults","Bus",144
+"September","Middle-aged adults","Mini Bus",145
+"September","Middle-aged adults","People Mover",123
+"September","Middle-aged adults","All Car Body Types",412
+"September","Old-aged adults","Bus",25
+"September","Old-aged adults","Mini Bus",28
+"September","Old-aged adults","People Mover",32
+"September","Old-aged adults","All Car Body Types",85
+"September","Young adults","Bus",100
+"September","Young adults","Mini Bus",128
+"September","Young adults","People Mover",122
+"September","Young adults","All Car Body Types",350
+"September","All Age Groups","All Car Body Types",847
+"October  ","Middle-aged adults","Bus",146
+"October  ","Middle-aged adults","Mini Bus",144
+"October  ","Middle-aged adults","People Mover",136
+"October  ","Middle-aged adults","All Car Body Types",426
+"October  ","Old-aged adults","Bus",31
+"October  ","Old-aged adults","Mini Bus",30
+"October  ","Old-aged adults","People Mover",21
+"October  ","Old-aged adults","All Car Body Types",82
+"October  ","Young adults","Bus",116
+"October  ","Young adults","Mini Bus",135
+"October  ","Young adults","People Mover",123
+"October  ","Young adults","All Car Body Types",374
+"October  ","All Age Groups","All Car Body Types",882
+"November ","Middle-aged adults","Bus",153
+"November ","Middle-aged adults","Mini Bus",128
+"November ","Middle-aged adults","People Mover",139
+"November ","Middle-aged adults","All Car Body Types",420
+"November ","Old-aged adults","Bus",29
+"November ","Old-aged adults","Mini Bus",25
+"November ","Old-aged adults","People Mover",23
+"November ","Old-aged adults","All Car Body Types",77
+"November ","Young adults","Bus",121
+"November ","Young adults","Mini Bus",143
+"November ","Young adults","People Mover",89
+"November ","Young adults","All Car Body Types",353
+"November ","All Age Groups","All Car Body Types",850
+"December ","Middle-aged adults","Bus",147
+"December ","Middle-aged adults","Mini Bus",139
+"December ","Middle-aged adults","People Mover",163
+"December ","Middle-aged adults","All Car Body Types",449
+"December ","Old-aged adults","Bus",17
+"December ","Old-aged adults","Mini Bus",20
+"December ","Old-aged adults","People Mover",22
+"December ","Old-aged adults","All Car Body Types",59
+"December ","Young adults","Bus",115
+"December ","Young adults","Mini Bus",117
+"December ","Young adults","People Mover",107
+"December ","Young adults","All Car Body Types",339
+"December ","All Age Groups","All Car Body Types",847
+"All Months","All Age Groups","All Car Body Types",10000

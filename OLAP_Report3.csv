@@ -1,0 +1,29 @@
+"ERRORCODE","REGISTRATIONNO","CARBODYTYPE","Total number of accidents","Rank"
+"Error001","Car01","Bus",13,1
+"Error001","Car04","Bus",12,2
+"Error001","Car12","Mini Bus",12,2
+"Error001","Car19","Mini Bus",12,2
+"Error001","Car08","Bus",11,3
+"Error001","Car20","Mini Bus",11,3
+"Error002","Car22","People Mover",45,1
+"Error002","Car27","People Mover",42,2
+"Error002","Car30","People Mover",39,3
+"Error002","Car23","People Mover",39,3
+"Error003","Car14","Mini Bus",12,1
+"Error003","Car06","Bus",12,1
+"Error003","Car01","Bus",11,2
+"Error003","Car10","Bus",11,2
+"Error003","Car12","Mini Bus",10,3
+"Error003","Car09","Bus",10,3
+"Error004","Car12","Mini Bus",13,1
+"Error004","Car15","Mini Bus",10,2
+"Error004","Car18","Mini Bus",9,3
+"Error004","Car20","Mini Bus",9,3
+"Error004","Car04","Bus",9,3
+"Error005","Car16","Mini Bus",11,1
+"Error005","Car20","Mini Bus",10,2
+"Error005","Car08","Bus",10,2
+"Error005","Car05","Bus",9,3
+"Error005","Car19","Mini Bus",9,3
+"Error005","Car01","Bus",9,3
+"Error005","Car12","Mini Bus",9,3

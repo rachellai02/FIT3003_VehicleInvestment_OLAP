@@ -1,0 +1,13 @@
+"Team ID","Car body type","Total number of maintenance","Total maintenance cost"
+"All Teams","All Car Body Types",399,125300
+"All Teams","Bus",136,44900
+"All Teams","Mini Bus",113,34000
+"All Teams","People Mover",150,46400
+"T002","All Car Body Types",197,62700
+"T002","Bus",58,18400
+"T002","Mini Bus",62,19300
+"T002","People Mover",77,25000
+"T003","All Car Body Types",202,62600
+"T003","Bus",78,26500
+"T003","Mini Bus",51,14700
+"T003","People Mover",73,21400

@@ -1,0 +1,37 @@
+"BOOKINGMONTH","PASSENGERAGEGROUPDESC","NO_OF_BOOKING_RECORDS","MOVING_3_MONTH_AVG"
+"January  ","Middle-aged adults",430,261.33
+"January  ","Old-aged adults",59,261
+"January  ","Young adults",395,294.67
+"February ","Middle-aged adults",397,265
+"February ","Young adults",294,250.33
+"February ","Old-aged adults",60,265.33
+"March    ","Young adults",349,283.67
+"March    ","Old-aged adults",68,281.33
+"March    ","Middle-aged adults",434,284.33
+"April    ","Young adults",312,262.33
+"April    ","Old-aged adults",65,237.5
+"April    ","Middle-aged adults",410,410
+"May      ","Young adults",339,277.67
+"May      ","Old-aged adults",69,281
+"May      ","Middle-aged adults",425,280.67
+"June     ","Middle-aged adults",394,267.33
+"June     ","Old-aged adults",77,267
+"June     ","Young adults",342,271
+"July     ","Old-aged adults",78,298.67
+"July     ","Middle-aged adults",423,292.33
+"July     ","Young adults",330,277
+"August   ","Old-aged adults",74,276
+"August   ","Middle-aged adults",442,273
+"August   ","Young adults",308,274.67
+"September","Old-aged adults",85,290.33
+"September","Middle-aged adults",412,289.33
+"September","Young adults",350,282.33
+"October  ","Young adults",374,294
+"October  ","Middle-aged adults",426,285.33
+"October  ","Old-aged adults",82,287
+"November ","Young adults",353,283.33
+"November ","Middle-aged adults",420,276
+"November ","Old-aged adults",77,278.67
+"December ","Old-aged adults",59,272
+"December ","Young adults",339,282.33
+"December ","Middle-aged adults",449,277
