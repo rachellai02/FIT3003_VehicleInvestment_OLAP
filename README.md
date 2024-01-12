@@ -16,4 +16,4 @@
 Dashboard File:
 - Task_C4.pbix
 
-![BIReport](Business Intelligence Report Dashboard.png)
+![DashboardImage](DashboardImage.png)
